@@ -38,12 +38,12 @@ Ues the following Script<br>
 <summary>🔵 See script</summary>
 <p>  
   
-#!/bin/bash
-yum update -y
-yum install httpd -y
-service httpd start
-chkconfig httpd on
-cd /var/www/html
+#!/bin/bash<br>
+yum update -y<br>
+yum install httpd -y<br>
+service httpd start<br>
+chkconfig httpd on<br>
+cd /var/www/html<br>
 echo "<html><h1>This is Web Server 1"</h1></html>" > index.html
 
 </p>
@@ -109,12 +109,12 @@ Advanced details: use custom script below<br>
 <summary>🔵 See script</summary>
 <p>  
   
-#!/bin/bash
-yum update -y
-yum install httpd -y
-service httpd start
-chkconfig httpd on
-cd /var/www/html
+#!/bin/bash<br>
+yum update -y<br>
+yum install httpd -y<br>
+service httpd start<br>
+chkconfig httpd on<br>
+cd /var/www/html<br>
 echo "<html><h1>This is Web server 2"</h1></html>" > index.html
 
 </p>
