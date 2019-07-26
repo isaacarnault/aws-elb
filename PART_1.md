@@ -115,7 +115,7 @@ yum install httpd -y<br>
 service httpd start<br>
 chkconfig httpd on<br>
 cd /var/www/html<br>
-echo "<html><h1>This is Web server 2"</h1></html>" > index.html
+echo "<html><h1>This is Web Server 1"</h1></html>" > index.html
 
 </p>
 </details>
