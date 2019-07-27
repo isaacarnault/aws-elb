@@ -67,8 +67,8 @@ Security group name: SG-ELB > Description: Security Group of my ELB > Add rule: 
 <details>
 <summary>🔴 See output</summary>
 <p>  
-
-[![isaac-arnault-AWS-82.png](https://i.postimg.cc/j5tFCjvX/isaac-arnault-AWS-82.png)](https://postimg.cc/FfCZBNMd)
+  
+[![isaac-arnault-AWS-87.png](https://i.postimg.cc/Kv4fQWzx/isaac-arnault-AWS-87.png)](https://postimg.cc/mtf7g8C5)
 
 </p>
 </details>
