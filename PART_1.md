@@ -124,7 +124,7 @@ echo "<html><h1>This is Web Server 2</h1></html>" > index.html
 
 Key: Name > Value: my-WEB-Server-2 > Next: Configure Security Group > Use an existing Security Group<br>
 
-We choose our existing Security Group which is <b>SG-ELB</b><br> then "Review and Launch" > Launch.
+We choose our existing Security Group which is <b>SG-ELB</b> then "Review and Launch" > Launch.
 
 <details>
 <summary>🔴 See output</summary>
